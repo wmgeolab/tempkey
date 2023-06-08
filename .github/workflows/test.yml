@@ -1,0 +1,10 @@
+on:
+    workflow_dispatch          
+name: test
+jobs:
+  gbBuild:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Git Clone
+      run: |
+           echo Hello There Mortal!
