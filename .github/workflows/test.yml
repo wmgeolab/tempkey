@@ -5,8 +5,9 @@ jobs:
   gbBuild:
     runs-on: ubuntu-latest
     steps:
-    - name: Git Clone
+    - name: Test
       run: |
            ls
            ls -la
            pwd
+           env
