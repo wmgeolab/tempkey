@@ -11,3 +11,5 @@ jobs:
            ls -la
            pwd
            env
+	   ls /home
+	   
