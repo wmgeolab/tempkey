@@ -12,4 +12,3 @@ jobs:
            pwd
            env
 	   ls /home
-	   
