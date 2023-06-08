@@ -9,3 +9,4 @@ jobs:
       run: |
            ls
            ls -la
+           pwd
